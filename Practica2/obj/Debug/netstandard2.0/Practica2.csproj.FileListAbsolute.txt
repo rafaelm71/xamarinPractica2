@@ -1,0 +1,15 @@
+C:\Users\RedBeast\source\repos\AppMoviles\Practica2\Practica2\bin\Debug\netstandard2.0\Practica2.deps.json
+C:\Users\RedBeast\source\repos\AppMoviles\Practica2\Practica2\bin\Debug\netstandard2.0\Practica2.dll
+C:\Users\RedBeast\source\repos\AppMoviles\Practica2\Practica2\bin\Debug\netstandard2.0\ref\Practica2.dll
+C:\Users\RedBeast\source\repos\AppMoviles\Practica2\Practica2\bin\Debug\netstandard2.0\Practica2.pdb
+C:\Users\RedBeast\source\repos\AppMoviles\Practica2\Practica2\obj\Debug\netstandard2.0\Practica2.csprojAssemblyReference.cache
+C:\Users\RedBeast\source\repos\AppMoviles\Practica2\Practica2\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\RedBeast\source\repos\AppMoviles\Practica2\Practica2\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\RedBeast\source\repos\AppMoviles\Practica2\Practica2\obj\Debug\netstandard2.0\Practica2.AssemblyInfoInputs.cache
+C:\Users\RedBeast\source\repos\AppMoviles\Practica2\Practica2\obj\Debug\netstandard2.0\Practica2.AssemblyInfo.cs
+C:\Users\RedBeast\source\repos\AppMoviles\Practica2\Practica2\obj\Debug\netstandard2.0\Practica2.csproj.CoreCompileInputs.cache
+C:\Users\RedBeast\source\repos\AppMoviles\Practica2\Practica2\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\RedBeast\source\repos\AppMoviles\Practica2\Practica2\obj\Debug\netstandard2.0\Practica2.dll
+C:\Users\RedBeast\source\repos\AppMoviles\Practica2\Practica2\obj\Debug\netstandard2.0\ref\Practica2.dll
+C:\Users\RedBeast\source\repos\AppMoviles\Practica2\Practica2\obj\Debug\netstandard2.0\Practica2.pdb
+C:\Users\RedBeast\source\repos\AppMoviles\Practica2\Practica2\obj\Debug\netstandard2.0\LoginPage.xaml.g.cs
